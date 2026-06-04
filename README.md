@@ -2,6 +2,7 @@
 
 > **Projeto desenvolvido como parte do Desafio de Projeto da DIO**  
 > Ferramenta utilizada: [NotebookLM](https://notebooklm.google.com/) (Google)  
+> Link: https://notebooklm.google.com/notebook/09efcd29-08e5-4104-8935-1c4e9bbd3038
 > Autor: [Davi Silva]
 
 ---
@@ -10,32 +11,33 @@
 
 ### Contexto
 
-Este caderno temático foi criado com o auxílio do **NotebookLM** como ferramenta de aprendizagem sobre motores de combustão interna utilizados em veículos automotivos.
+Este caderno temático foi criado com o auxílio do **NotebookLM** como ferramenta de aprendizagem ativa e curadoria de conhecimento técnico sobre motores de combustão interna utilizados em veículos automotivos.
 
-O tema envolve engenharia mecânica, termodinâmica aplicada e sistemas automotivos.
+O tema envolve engenharia mecânica, termodinâmica aplicada e sistemas automotivos — áreas com vasta literatura técnica aberta, o que o torna ideal para consolidação de conhecimento avançado com suporte de IA.
 
 ### Objetivos de Estudo
 
 - Consolidar o conhecimento técnico sobre os **três principais ciclos de combustão interna**: Otto, Diesel e Wankel
 - Revisar o funcionamento interno dos motores, desde os **componentes mecânicos** até os **processos termodinâmicos** dentro dos cilindros
 - Criar um material de referência rápida para consulta futura
-- Explorar o **NotebookLM** como ferramenta de síntese e geração de perguntas a partir de fontes técnicas
+- Explorar o NotebookLM como ferramenta de síntese e geração de perguntas a partir de fontes técnicas
 
 ---
 
-## 📚 Fontes
+## 📚 Curadoria de Fontes
 
 As fontes abaixo foram selecionadas por serem abertas, técnicas e confiáveis. Todas foram carregadas no NotebookLM para análise.
 
 | # | Título | Tipo | Link |
 |---|--------|------|------|
-| 1 | *Internal Combustion Engine Fundamentals* — Heywood (capítulos abertos via MIT OpenCourseWare) | PDF/Web | [MIT OCW — IC Engines](https://ocw.mit.edu/courses/2-615j-advanced-thermodynamics-for-engineers-fall-2005/) |
-| 2 | *How Car Engines Work* — HowStuffWorks | Web (texto) | [howstuffworks.com/engine.htm](https://auto.howstuffworks.com/engine.htm) |
-| 3 | *The Wankel Rotary Engine: A History* — SAE Technical Papers (aberto) | PDF | [sae.org — buscar "Wankel engine open access"](https://www.sae.org) |
-| 4 | *Diesel Engine Technology* — Bosch Automotive Handbook (trechos abertos) | PDF | [bosch-mobility.com](https://www.bosch-mobility.com/en/solutions/publications/automotive-handbook/) |
-| 5 | *Thermodynamic Cycles for IC Engines* — Engineering Toolbox | Web (texto) | [engineeringtoolbox.com](https://www.engineeringtoolbox.com/thermodynamic-cycle-d_403.html) |
+| 1 | *2.61 Internal Combustion Engines* — MIT OpenCourseWare (Spring 2017) | Web + PDFs | [ocw.mit.edu/courses/2-61-internal-combustion-engines-spring-2017](https://ocw.mit.edu/courses/2-61-internal-combustion-engines-spring-2017/) |
+| 2 | *How Diesel Engines Work* — HowStuffWorks | Web (texto) | [auto.howstuffworks.com/diesel.htm](https://auto.howstuffworks.com/diesel.htm) |
+| 3 | *Wankel Engine* — Wikipedia (artigo técnico completo com referências) | Web (texto) | [en.wikipedia.org/wiki/Wankel_engine](https://en.wikipedia.org/wiki/Wankel_engine) |
+| 4 | *Diesel Engine* — Encyclopædia Britannica | Web (texto) | [britannica.com/technology/diesel-engine](https://www.britannica.com/technology/diesel-engine) |
+| 5 | *The Thermodynamics of Internal Combustion Engines* — MDPI (artigo científico aberto) | Web + PDF | [mdpi.com/296702](https://www.mdpi.com/296702) |
+| 🎬 | *How Engines REALLY Work (3D Animation)* — YouTube | Vídeo | [youtube.com/watch?v=k_BIOzQ7u_E](https://www.youtube.com/watch?v=k_BIOzQ7u_E) |
 
-> ⚠️ **Nota:** Alguns links levam a portais onde a busca pelo material específico é necessária. O NotebookLM aceita uploads diretos de PDF e URLs de páginas abertas.
+> ✅ **Nota:** Todos os links foram verificados e estão funcionando. As fontes 1 e 5 possuem PDFs disponíveis para download direto e upload no NotebookLM. O vídeo do YouTube pode ser referenciado como contexto complementar.
 
 ---
 
